@@ -15,6 +15,7 @@ const alias = {
   config: path.resolve(dirname, './src/config'),
   public: path.resolve(dirname, './src/public'),
   routes: path.resolve(dirname, './src/routes'),
+  store: path.resolve(dirname, './src/store'),
   themes: path.resolve(dirname, './src/themes'),
   utils: path.resolve(dirname, './src/utils'),
 };
